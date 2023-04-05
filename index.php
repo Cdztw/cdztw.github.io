@@ -1,3 +1,6 @@
+<?php
+	include_once("header.php")
+?>
 <HTML>
 	<title>Cdztw's Home</title>
 	<head>
